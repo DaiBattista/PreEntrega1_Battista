@@ -1,0 +1,11 @@
+.container {
+    padding: 5%;
+    border-radius: 1rem;
+}
+
+h1 {
+    margin: 2% 5% 0 5%;
+    font-size: 2em;
+    color: #16437E;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
